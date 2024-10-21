@@ -12,7 +12,7 @@
 
 [Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration](paper/Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration.pdf) [2024] [[note](note/Analytic-Splatting: Anti-Aliased 3D Gaussian Splatting via Analytic Integration.md)]
 
-[Mip-Splatting: Alias-free 3D Gaussian Splatting](paper/mip-splatting.pdf) [CVPR2024] [note]
+[Mip-Splatting: Alias-free 3D Gaussian Splatting](paper/mip-splatting.pdf) [CVPR2024] [[note](note/Mip-Splatting: Alias-free 3D Gaussian Splatting.md)]
 
 [Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering](paper/Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering.pdf) [CVPR2024] [note]
 
