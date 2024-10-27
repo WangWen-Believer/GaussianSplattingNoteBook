@@ -24,7 +24,7 @@ Mip-nerf: A multiscale representation for anti-aliasing neural radiance fields [
 
 [Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation](paper/Unleashing Generalization of End-to-End Autonomous.pdf) [[note](note/Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation.md)]
 
+[GaussianPro: 3D Gaussian Splatting with Progressive Propagation](paper/GaussianPro: 3D Gaussian Splatting with Progressive Propagation.pdf) [2024] [note]
 
-
-
+ 
 
